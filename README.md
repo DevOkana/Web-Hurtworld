@@ -71,9 +71,11 @@ Para el control del servidor, se utilizó PHP como backend junto con MySQL para 
 
 ## Galería
 ![Login](fotos/Login.jpeg)
-![cambiar_contraseña](blob/main/fotos/cambiar_contraseña.jpeg)
-![cambiar_contraseña](blob/main/fotos/cambiar_contraseña.jpeg)
-![descargas_web](blob/main/fotos/descargas_web.jpeg)
+![cambiar_contraseña](fotos/cambiar_contraseña.jpeg)
+![descargas_web](fotos/descargas_web.jpeg)
+![panel_profile](fotos/panel_profile.jpeg)
+![register](fotos/register.jpeg)
+![recuperar](fotos/recuperar.jpeg)
 
 
 ## Contribuciones

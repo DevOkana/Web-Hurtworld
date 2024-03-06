@@ -1,0 +1,26 @@
+{
+    "BuildNumber": 0,
+    "LastBuiltVersion": "",
+    "UsesSharedAssets": true,
+    "FriendlyName": "Galvanite Door",
+    "PreviewImage": {
+        "instanceID": 19268
+    },
+    "PublishedFileId": 2206789896,
+    "Title": "Galvanite Door",
+    "AssetManifest": {
+        "Records": [],
+        "WorkshopId": 0,
+        "ModName": ""
+    },
+    "Sprites": [
+        {
+            "instanceID": 14262
+        }
+    ],
+    "AssetOverrides": [],
+    "CustomAttachmentPointTypes": [],
+    "UIWindows": [],
+    "ForceIncludes": [],
+    "IgnoreCustomTypes": false
+}

@@ -69,6 +69,12 @@ Para el control del servidor, se utilizó PHP como backend junto con MySQL para 
 
 - **Mantenimiento:** Este sistema se puede complementar con otro software que fue diseñado para el ya que guarda las base de datos y el mapa del juego con una periodicidad en carpetas dejando claro la hora y el día. Pienso ir arreglando a lo largo del tiempo, porque puede servir para cualquier game que sea en local con un server de steam, como lo son el DayZ o el Rust.
 
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un issue o enviar un pull request en el repositorio correspondiente.
+
+---
+
 ## Galería
 ![Login](fotos/Login.jpeg)
 ![cambiar_contraseña](fotos/cambiar_contraseña.jpeg)
@@ -78,9 +84,5 @@ Para el control del servidor, se utilizó PHP como backend junto con MySQL para 
 ![recuperar](fotos/recuperar.jpeg)
 
 
-## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un issue o enviar un pull request en el repositorio correspondiente.
-
----
 

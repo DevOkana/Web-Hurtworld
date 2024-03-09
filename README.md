@@ -1,5 +1,5 @@
 # Guía de Configuración del Sistema de Juego Hurtworld
-
+![Guide](fotos/logo.png)
 Esta guía explica cómo configurar el sistema de juego Hurtworld, que incluye una serie de scripts PHP para manejar aspectos como la autenticación de usuarios, la recuperación de contraseñas, la obtención de información de jugadores, entre otros.
 
 - **Descripción:**
